@@ -12,7 +12,7 @@ const AboutTextCard = () => {
         Skilled in Web development
         <br /> B.Tech in Computer Science and Engineering from
         <br />
-        APJ AbdulKalam Technological University In The Year Of 2021. Iam A FullStack Web Developer.
+        APJ AbdulKalam Technological University In The Year Of 2022. Iam A FullStack Web Developer.
         <br />
         <br />
         Apart from coding, some other activities that I love to do!
