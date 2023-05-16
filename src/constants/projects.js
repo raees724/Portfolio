@@ -10,7 +10,7 @@ export const PROJECTS = [
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://sidemen.store/',
+      site: 'https://sidemen-api.onrender.com/',
       repo: 'https://github.com/raees724/SideMen',
     },
     technologies: [
@@ -34,7 +34,7 @@ export const PROJECTS = [
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site:'https://github.com/raees724/React_Netflix',
+      site:'https://netflixsample.netlify.app/',
       repo: 'https://github.com/raees724/React_Netflix',
     },
     technologies: [
@@ -76,7 +76,7 @@ export const PROJECTS = [
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://github.com/raees724/React_TodoApp',
+      site: 'https://rednotez.netlify.app/',
       repo: 'https://github.com/raees724/React_TodoApp',
     },
     technologies: [
